@@ -1,7 +1,7 @@
 
   # Ev Case Portfolio
 
-  This is a code bundle for Ev Case Portfolio. The original project is available at https://www.figma.com/design/bU1lEOxfmgHI7NbBtkX3zr/Ev-Case-Portfolio.
+  This is a code bundle for Evee's Portfolio.
 
   ## Running the code
 
