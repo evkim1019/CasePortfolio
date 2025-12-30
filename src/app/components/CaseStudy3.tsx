@@ -172,8 +172,8 @@ export function CaseStudy3() { // Renamed component for clarity
               <Calendar className="text-muted-foreground" size={20} />
               <h4 className="text-foreground">Timeline</h4>
             </div>
-            <p className="text-muted-foreground">14 months</p>
-            <p className="text-muted-foreground mt-1">Apr 2022 - Mar 2025</p>
+            <p className="text-muted-foreground">12 months</p>
+            <p className="text-muted-foreground mt-1">Jun 2020 - Jun 2021</p>
           </div>
           <div className="bg-card border border-border p-6 rounded-xl">
             <div className="flex items-center gap-3 mb-3">
@@ -181,23 +181,23 @@ export function CaseStudy3() { // Renamed component for clarity
               <h4 className="text-foreground">Team</h4>
             </div>
             <p className="text-muted-foreground">5 core members</p>
-            <p className="text-muted-foreground mt-1">2 Designers, 1 Project Manager, 2 Engineers</p>
+            <p className="text-muted-foreground mt-1">1 Designers, 1 Project Manager, 2 Engineers</p>
           </div>
           <div className="bg-card border border-border p-6 rounded-xl">
             <div className="flex items-center gap-3 mb-3">
               <Target className="text-muted-foreground" size={20} />
               <h4 className="text-foreground">My Role</h4>
             </div>
-            <p className="text-muted-foreground">{caseStudy3Content.role}</p>
-            <p className="text-muted-foreground mt-1">{caseStudy3Content.roleDetails}</p>
+            <p className="text-muted-foreground">UX Design Lead</p>
+            <p className="text-muted-foreground mt-1">Coding Algorithm Redesign with Accessibility</p>
           </div>
           <div className="bg-card border border-border p-6 rounded-xl">
             <div className="flex items-center gap-3 mb-3">
               <Award className="text-muted-foreground" size={20} />
               <h4 className="text-foreground">Impact</h4>
             </div>
-            <p className="text-muted-foreground">{caseStudy3Content.impactMetric}</p>
-            <p className="text-muted-foreground mt-1">{caseStudy3Content.impactDetails}</p>
+            <p className="text-muted-foreground">90%+ Coversion Rate</p>
+            <p className="text-muted-foreground mt-1">3 Million Users</p>
           </div>
         </div>
 

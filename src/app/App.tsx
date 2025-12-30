@@ -3,7 +3,6 @@ import { Navigation } from "./components/Navigation";
 import { CaseStudy1 } from "./components/CaseStudy1";
 import { CaseStudy2 } from "./components/CaseStudy2";
 import { CaseStudy3 } from "./components/CaseStudy3";
-import { CaseStudyPlaceholder } from "./components/CaseStudyPlaceholder";
 
 export default function App() {
   return (

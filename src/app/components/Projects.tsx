@@ -52,14 +52,14 @@ export function Projects() {
       cta: "View in AppStore",
     },
     {
-      title: "Scaling the Brand Experience via an Extended Learning Platform",
+      title: "Clinical Protocols, Content, and Resources for Healthcare Professionals",
       category: "Strategy & Design systems",
       description:
-        "Designed Pediatric Advanced Life Support (PALS) training mobile application for American Heart Association (AHA) to enhance learning experience for healthcare professionals.",
+        "Designed digital health solution to assist clinicians in running codes and delivering bedside Pediatric Advanced Life Support (PALS) care with actual patients.",
       image:
         "/src/imgs/caseStudy5/caseStudyFive.png",
       slug: null,
-      external: "https://apps.apple.com/us/app/aha-pals/id1577470913",
+      external: "https://cpr.heart.org/en/cpr-courses-and-kits/healthcare-professional/pediatric/aha-pals-app",
       metrics: ["4+ rating in AppStore", "Strategic product alignment"],
       cta: "View in AppStore",
     },

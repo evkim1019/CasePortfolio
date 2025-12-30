@@ -30,7 +30,7 @@ export function Hero() {
             A Senior UX Designer who speaks code. I leverage rapid research and technical literacy to shorten feedback loops, clarify engineering requirements, and launch products faster.
           </p>
           <p className="mb-8 max-w-xl text-lg mx-auto">
-            Currently in the Applied AI Solutions at AWS in Boston, MA.
+            Currently working in Applied AI Solutions at AWS in Boston, MA.
           </p>
           
           <Metrics />
