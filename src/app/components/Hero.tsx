@@ -51,7 +51,7 @@ export function Hero() {
               <Github size={20} />
             </a>
             <a
-              href="/src/files/EVCV.pdf"
+              href="/files/EVCV.pdf"
               target="_blank"
               className="px-6 py-3 glass-button rounded-full transition-colors flex items-center gap-2"
             >

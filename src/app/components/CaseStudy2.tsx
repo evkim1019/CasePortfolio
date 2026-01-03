@@ -195,14 +195,14 @@ export function CaseStudy2() {
         <div className="grid md:grid-cols-2 gap-2 mb-2 ">
           <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
             <img
-            src="/src/imgs/CaseStudy2/Hodgkin-newExperiment-selectRecipe(1_4).png"
+            src="//imgs/CaseStudy2/Hodgkin-newExperiment-selectRecipe(1_4).png"
             alt=""
             className="w-full block"
           />
           </div>
           <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
             <img
-            src="/src/imgs/CaseStudy2/Hodgkin-newExperiment-selectTargetchain(2_4).png"
+            src="//imgs/CaseStudy2/Hodgkin-newExperiment-selectTargetchain(2_4).png"
             alt=""
             className="w-full block"
           />
@@ -211,14 +211,14 @@ export function CaseStudy2() {
         <div className="grid md:grid-cols-2 gap-2 mb-16">
           <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
             <img
-            src="/src/imgs/CaseStudy2/Hodgkin-newExperiment-hotspotselection(3_4).png"
+            src="//imgs/CaseStudy2/Hodgkin-newExperiment-hotspotselection(3_4).png"
             alt=""
             className="w-full block"
           />
           </div>
           <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
             <img
-            src="/src/imgs/CaseStudy2/Hodgkin-newExperiment-CDRlengthoption(4_4).png"
+            src="//imgs/CaseStudy2/Hodgkin-newExperiment-CDRlengthoption(4_4).png"
             alt=""
             className="w-full block"
           />
@@ -317,14 +317,14 @@ export function CaseStudy2() {
             <div className="grid md:grid-cols-3 gap-2 mb-4">
               <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
                 <img
-                src="src/imgs/CaseStudy2/Hodgkin-result-table+filter(2).png"
+                src="/imgs/CaseStudy2/Hodgkin-result-table+filter(2).png"
                 alt="Computational Scientist data grid view with filters"
                 className="w-full block"
               />
               </div>
               <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
                 <img
-                src="src/imgs/CaseStudy2/Hodgkin-result-dataVisual.png"
+                src="/imgs/CaseStudy2/Hodgkin-result-dataVisual.png"
                 alt="Bench Scientist dashboard view with visual summaries"
                 className="w-full block"
               />
@@ -332,7 +332,7 @@ export function CaseStudy2() {
 
             <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
                 <img
-                src="src/imgs/CaseStudy2/Hodgkin-result-wetLabCollab(2).png"
+                src="/imgs/CaseStudy2/Hodgkin-result-wetLabCollab(2).png"
                 alt="Wet Lab Scientist collaborative review state sharing"
                 className="w-full block"
               />

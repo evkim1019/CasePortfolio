@@ -9,7 +9,7 @@ export function Projects() {
       description:
         "Simplify complex AI Agent configuration for the non-technical users and created a health and analysis dashboard to create sustainable lifecycle.",
       image:
-        "/src/imgs/caseStudy1/caseStudyOne.png",
+        "/imgs/caseStudy1/caseStudyOne.png",
       slug: "casestudy1",
       external: null,
       metrics: ["85%+ faster time-to-value", "Eliminated 3rd-party dependency", "3x/mo increased usage", "zero onboarding drop-offs"],
@@ -21,7 +21,7 @@ export function Projects() {
       description:
         "Built comprehensive design system from scratch, establishing design principles, component library, and governance model.",
       image:
-        "/src/imgs/caseStudy2/caseStudyTwo.png",
+        "/imgs/caseStudy2/caseStudyTwo.png",
       slug: "casestudy2",
       external: null,
       metrics: ["12+ enterprises adoptions", "90% time reduction", "6+ automated computational recipes", "Streamlined drug discovery collaborations"],
@@ -33,7 +33,7 @@ export function Projects() {
       description:
         "Designed intuitive mobile experience with American Heart Association (AHA) for healthcare professionals to perform Advanced Cardiac Life Support (ACLS) protocols and summary report for EHR systems.",
       image:
-        "/src/imgs/caseStudy3/caseStudyThree.png",
+        "/imgs/caseStudy3/caseStudyThree.png",
       slug: "casestudy3",
       external: null,
       metrics: ["90%+ conversion rate", "3M+ downloads"],
@@ -45,7 +45,7 @@ export function Projects() {
       description:
         "Designed and developed a pain control practice reference, utilities and educational mobile application for Emergency Medicine Residents with EMRA (Emergency Medicine Residents' Association).",
       image:
-        "/src/imgs/caseStudy4/caseStudyFour.png",
+        "/imgs/caseStudy4/caseStudyFour.png",
       slug: null,
       external: "https://apps.apple.com/us/app/emra-ra/id6451369561",
       metrics: ["Monetizing Textbook IP", "Created ongoing digital revenue stream", "Nation-wide adoption"],
@@ -57,7 +57,7 @@ export function Projects() {
       description:
         "Designed digital health solution to assist clinicians in running codes and delivering bedside Pediatric Advanced Life Support (PALS) care with actual patients.",
       image:
-        "/src/imgs/caseStudy5/caseStudyFive.png",
+        "/imgs/caseStudy5/caseStudyFive.png",
       slug: null,
       external: "https://cpr.heart.org/en/cpr-courses-and-kits/healthcare-professional/pediatric/aha-pals-app",
       metrics: ["4+ rating in AppStore", "Strategic product alignment"],

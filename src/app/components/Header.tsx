@@ -37,7 +37,7 @@ export function Header() {
           <nav className="hidden md:flex items-center gap-8">
             
             <a
-              href="/src/files/EVCV.pdf"
+              href="/files/EVCV.pdf"
               target="_blank"
               className="glass-button px-6 py-2 rounded-full  transition-colors"
             >
@@ -59,7 +59,7 @@ export function Header() {
           <nav className="md:hidden mt-4 pb-4 flex flex-col gap-4">
             
             <a
-              href="/src/files/EVCV.pdf"
+              href="/files/EVCV.pdf"
               target="_blank"
               className="px-6 py-2 glass-button  rounded-full transition-colors w-fit"
             >

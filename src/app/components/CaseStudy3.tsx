@@ -204,7 +204,7 @@ export function CaseStudy3() { // Renamed component for clarity
         {/* Hero Image */}
         <div className="relative rounded-2xl overflow-hidden mb-16 glass-card border border-white/10">
           <img
-            src="/src/imgs/CaseStudy3/HowToUse---suggestion.jpg"
+            src="/imgs/CaseStudy3/HowToUse---suggestion.jpg"
             alt="Mobile medical reference app in a clinical setting"
             className="w-full h-full object-cover"
           />

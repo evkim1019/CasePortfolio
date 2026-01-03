@@ -202,7 +202,7 @@ export function CaseStudy1() {
           
           <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
             <img
-            src="/src/imgs/caseStudy1/AI_Agent_config-master.png" 
+            src="/imgs/caseStudy1/AI_Agent_config-master.png" 
             alt="AI Management Dashboard Interface"
             className="w-full block" 
           />
@@ -210,14 +210,14 @@ export function CaseStudy1() {
           <div>
             <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
               <img
-              src="/src/imgs/caseStudy1/AI_Agent_implementation-master.png"
+              src="/imgs/caseStudy1/AI_Agent_implementation-master.png"
               alt="Auto generated AI Agent one-click implementation experience"
               className="w-full block"
             />
             </div>
             <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
               <img
-              src="/src/imgs/caseStudy1/AI_Agent_escalationPP.png"
+              src="/imgs/caseStudy1/AI_Agent_escalationPP.png"
               alt="Auto generated AI Agent one-click implementation experience"
               className="w-full block"
             />
@@ -272,14 +272,14 @@ export function CaseStudy1() {
             <div className="grid md:grid-cols-2 gap-2 mb-4">
               <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
                 <img
-                  src="/src/imgs/caseStudy1/AI_Agent_implementation-journey-before+after.png"
+                  src="/imgs/caseStudy1/AI_Agent_implementation-journey-before+after.png"
                 alt="User onboarding workflow before and after redesign"
                 className="w-full block"
               />
               </div>
               <div className="bg-card border border-border overflow-hidden rounded-xl self-start">
                 <img
-                src="/src/imgs/caseStudy1/userjourney-painpoints.png"
+                src="/imgs/caseStudy1/userjourney-painpoints.png"
                 alt="User journey identifying pain points"
                 className="w-full block"
               />
@@ -346,28 +346,28 @@ export function CaseStudy1() {
             <div className="grid md:grid-cols-4 gap-2 mb-2">
               <div className="bg-card border border-border overflow-hidden rounded-xl h-auto self-start">
                 <img
-                src="/src/imgs/caseStudy1/Agent-as-service%20whiteboard.png"
+                src="/imgs/caseStudy1/Agent-as-service%20whiteboard.png"
                 alt="Whiteboarding session capturing guardrails for AI Agent customization"
                 className="w-full block"
               />
               </div>
               <div className="bg-card border border-border overflow-hidden rounded-xl h-auto self-start">
                 <img
-                src="/src/imgs/caseStudy1/AI_Agent_architecture%20(1).png"
+                src="/imgs/caseStudy1/AI_Agent_architecture%20(1).png"
                 alt="AI Agent build structure and customization schema"
                 className="w-full block"
               />
               </div>
               <div className="bg-card border border-border overflow-hidden rounded-xl h-auto self-start">
                 <img
-                src="/src/imgs/caseStudy1/Whiteboard_onboarding.png"
+                src="/imgs/caseStudy1/Whiteboard_onboarding.png"
                 alt="Whiteboarding session capturing the self-service configuration flow"
                 className="w-full block"
               />
               </div>
               <div className="bg-card border border-border overflow-hidden rounded-xl h-auto self-start">
                 <img
-                src="/src/imgs/caseStudy1/AI_Agent_evaluation.png"
+                src="/imgs/caseStudy1/AI_Agent_evaluation.png"
                 alt="AI Agent evaluation metrics and feedback loop diagram"
                 className="w-full block"
               />
@@ -405,7 +405,7 @@ export function CaseStudy1() {
             <div className="grid md:grid-cols-3 gap-2 mb-2">
               <div className="bg-card border border-border overflow-hidden rounded-xl h-auto self-start">
                 <img
-                src="/src/imgs/caseStudy1/AI_Agent_manual_config.png"
+                src="/imgs/caseStudy1/AI_Agent_manual_config.png"
                 alt="Before: AI Agent configuration interface showing detailed technical parameter fields"
                 className="w-full block"
                 />  
@@ -413,7 +413,7 @@ export function CaseStudy1() {
               </div>
               <div className="bg-card border border-border overflow-hidden rounded-xl h-auto self-start">
                 <img
-                src="/src/imgs/caseStudy1/AI_Agent_config-before.png"
+                src="/imgs/caseStudy1/AI_Agent_config-before.png"
                 alt="Intermediate: Testing AI agent configuration simplified prompt generate experience in low fidelity"
                 className="w-full block"
                 />  
@@ -421,7 +421,7 @@ export function CaseStudy1() {
               </div>
               <div className="bg-card border border-border overflow-hidden rounded-xl h-auto self-start">
                 <img
-                src="/src/imgs/caseStudy1/AI_Agent_customization-section.png"
+                src="/imgs/caseStudy1/AI_Agent_customization-section.png"
                 alt="Intermediate: Testing AI agent configuration simplified prompt generate experience"
                 className="w-full block"
                 />  
@@ -434,7 +434,7 @@ export function CaseStudy1() {
             <div className="mb-2">
               <div className="bg-card border border-border overflow-hidden rounded-xl h-auto self-start">
                 <img
-                src="/src/imgs/caseStudy1/AI_Agent_implementation-journey-before+after.png"
+                src="/imgs/caseStudy1/AI_Agent_implementation-journey-before+after.png"
                 alt="Top flow chart of AI Agent implementation journey before redesign, bottom after redesign"
                 className="w-full block"
                 />  
