@@ -34,39 +34,39 @@ export function Header() {
           </div>
 
           {/* Desktop Navigation */}
-          {/* <nav className="hidden md:flex items-center gap-8">
+          <nav className="hidden md:flex items-center gap-8">
             
             <a
-              href="/resume.pdf"
-              download
+              href="/src/files/EVCV.pdf"
+              target="_blank"
               className="glass-button px-6 py-2 rounded-full  transition-colors"
             >
               View Resume
             </a>
-          </nav> */}
+          </nav>
 
           {/* Mobile Menu Button */}
-          {/* <button
+          <button
             className="md:hidden "
             onClick={() => setIsMenuOpen(!isMenuOpen)}
           >
             {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
-          </button> */}
+          </button>
         </div>
 
         {/* Mobile Navigation */}
-        {/* {isMenuOpen && (
+        {isMenuOpen && (
           <nav className="md:hidden mt-4 pb-4 flex flex-col gap-4">
             
             <a
-              href="/resume.pdf"
-              download
+              href="/src/files/EVCV.pdf"
+              target="_blank"
               className="px-6 py-2 glass-button  rounded-full transition-colors w-fit"
             >
               View Resume
             </a>
           </nav>
-        )} */}
+        )}
       </div>
     </header>
   );

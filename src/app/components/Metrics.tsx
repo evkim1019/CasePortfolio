@@ -22,7 +22,7 @@ const metrics: Metric[] = [
   },
   {
     label: "Faster Time-to-Value",
-    target: 75,
+    target: 85,
     suffix: "%",
     description: "Onboarding efficiency",
     icon: Gauge,

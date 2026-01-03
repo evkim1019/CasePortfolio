@@ -1,4 +1,4 @@
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, ExternalLink } from "lucide-react";
 import { Link } from "react-router-dom";
 
 export function Projects() {
@@ -106,7 +106,7 @@ export function Projects() {
                 </div>
                 <div className="flex items-center gap-2  hover:gap-3 transition-all group/btn">
                   {project.cta}
-                  <ArrowRight size={16} className="group-hover/btn:translate-x-1 transition-transform" />
+                  {project.external !== null ? <ExternalLink size={16}className="group-hover/btn:translate-x-1 transition-transform" /> : <ArrowRight size={16} className="group-hover/btn:translate-x-1 transition-transform" />}
                 </div>
               </div>
             </Link>
